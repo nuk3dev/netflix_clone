@@ -1,8 +1,8 @@
 # Netflix Clone
 
-This project is a Netflix clone, which includes user roles for admin, content manager, and customer (klant). The admin can manage user data, the content manager can manage the series, seasons, and episodes, and the customer can view all the series.
+This Netflix clone project was made for a school project named “Hobo”. The project was successfully finished on June 19, 2024. It’s a detailed application with different roles for admin, content manager, and customer (klant), each with their own tasks and abilities. The admin can manage user data, the content manager can manage the series, seasons, and episodes, and the customer can view all the series. The project shows a good understanding of managing user roles and content in a streaming service.
 
-![alt text](https://github.com/LO2E-SWD2-HOBO/Groep-4-Brian-Emre/blob/main/public/images/design.png)
+![alt text](https://github.com/nuk3dev/netflix_clone/blob/main/public/images/design.png)
 
 # Database
 
